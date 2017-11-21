@@ -29,6 +29,8 @@ namespace HousekeepingBook
         {
             Console.WriteLine(dateTimePicker1.Value.ToShortDateString());
 
+            Console.WriteLine("ブランチを追加してみた");
+
             //// 入力ファイル名
             //string path = "MoneyData.csv";
             //// 区切り文字
