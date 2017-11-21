@@ -31,6 +31,8 @@ namespace HousekeepingBook
 
             Console.WriteLine("ブランチを追加してみた");
 
+            Console.WriteLine("家計簿アプリでテスト");
+
             //// 入力ファイル名
             //string path = "MoneyData.csv";
             //// 区切り文字
